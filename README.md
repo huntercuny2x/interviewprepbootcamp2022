@@ -87,42 +87,42 @@ that far. Whether it runs or not, just submit what you have.
 
 **Week 1 (06/06 -> 06/10)**
 
-06/01 (Mon): intro, setup, how to interview, p2p 1 question prep  
-06/02 (Tues): initial assessment, p2p 1  
+06/06 (Mon): intro, setup, how to interview, p2p 1 question prep  
+06/07 (Tues): initial assessment, p2p 1  
 - hw: hashes,  p2p 2 questions, lists pre-work
 
-06/03 (Weds): big-o lecture, hashes  
+06/08 (Weds): big-o lecture, hashes  
 
-06/04 (Thurs): hashes day, p2p 2 
-06/05 (Fri): hashes
+06/08 (Thurs): hashes day, p2p 2 
+06/10 (Fri): hashes
 
 **Week 2 (06/13 -> 06/17)**
 
-06/08 (Mon): hashes, p2p 3, for hw lists  
-06/09 (Tues): lists, stacks and queues pre work  
-06/10 (Weds): lists, stacks and queues. Hw: p2p 4 qu’s  
-06/11 (Thurs): stacks+queues  
-06/12 (Fri):  p2p 4, stacks+queues, hw p2p 5 questions 
+06/13 (Mon): hashes, p2p 3, for hw lists  
+06/14 (Tues): lists, stacks and queues pre work  
+06/15 (Weds): lists, stacks and queues. Hw: p2p 4 qu’s  
+06/16 (Thurs): stacks+queues  
+06/17 (Fri):  p2p 4, stacks+queues, hw p2p 5 questions 
 
 **Week 3 (06/20 -> 06/24)**
 
  
-06/15 (Mon): stacks+queues, trees  
-06/16 (Tues): p2p 5, trees, recursion pre work 
-06/17 (Weds): recursion, hw: p2p 6 questions due wed  
-06/18 (Thurs): recursion  
-06/19 (Fri): p2p 6, recursion, hw: p2p 7 questions   
+06/20 (Mon): stacks+queues, trees  
+06/21 (Tues): p2p 5, trees, recursion pre work 
+06/22 (Weds): recursion, hw: p2p 6 questions due wed  
+06/23 (Thurs): recursion  
+06/24 (Fri): p2p 6, recursion, hw: p2p 7 questions   
 
 **Week 4 (06/27 -> 06/30)**
 
-06/22 (Mon): recursion  
-06/23 (Tues): final assessment, p2p 7 
+06/27 (Mon): recursion  
+06/28 (Tues): final assessment, p2p 7 
 
-06/24 p2p
+06/29 p2p
 
-06/25 p2p
+06/30 p2p
 
-06/26 p2p 
+
 
 ### Classwork
 
