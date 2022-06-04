@@ -94,6 +94,8 @@ that far. Whether it runs or not, just submit what you have.
 06/08 (Weds): big-o lecture, hashes  
 
 06/08 (Thurs): hashes day, p2p 2 
+
+
 06/10 (Fri): hashes
 
 **Week 2 (06/13 -> 06/17)**
