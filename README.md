@@ -149,6 +149,8 @@ Week 1, Day 4 (6/4)
 3. [Reverse a linked list](https://leetcode.com/problems/reverse-linked-list/)
 4. [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
+
+
 Week 1, Day 5 (6/5)
 
 1. [Lists Day 3 slides](https://drive.google.com/open?id=1TRe3JYxAPwlLZ46Z4AeX_AsUU3EPwRTYOqtdU9Ev6TA)
