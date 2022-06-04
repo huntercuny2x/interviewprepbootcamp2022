@@ -85,7 +85,7 @@ that far. Whether it runs or not, just submit what you have.
 
 ### Syllabus
 
-**Week 1 (06/01 -> 06/05)**
+**Week 1 (06/06 -> 06/10)**
 
 06/01 (Mon): intro, setup, how to interview, p2p 1 question prep  
 06/02 (Tues): initial assessment, p2p 1  
@@ -96,7 +96,7 @@ that far. Whether it runs or not, just submit what you have.
 06/04 (Thurs): hashes day, p2p 2 
 06/05 (Fri): hashes
 
-**Week 2 (06/08 -> 06/12)**
+**Week 2 (06/13 -> 06/17)**
 
 06/08 (Mon): hashes, p2p 3, for hw lists  
 06/09 (Tues): lists, stacks and queues pre work  
@@ -104,7 +104,7 @@ that far. Whether it runs or not, just submit what you have.
 06/11 (Thurs): stacks+queues  
 06/12 (Fri):  p2p 4, stacks+queues, hw p2p 5 questions 
 
-**Week 3 (06/15 -> 06/19)**
+**Week 3 (06/20 -> 06/24)**
 
  
 06/15 (Mon): stacks+queues, trees  
@@ -113,7 +113,7 @@ that far. Whether it runs or not, just submit what you have.
 06/18 (Thurs): recursion  
 06/19 (Fri): p2p 6, recursion, hw: p2p 7 questions   
 
-**Week 4 (06/22 -> 06/26)**
+**Week 4 (06/27 -> 06/30)**
 
 06/22 (Mon): recursion  
 06/23 (Tues): final assessment, p2p 7 
