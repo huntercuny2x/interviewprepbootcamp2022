@@ -1,12 +1,15 @@
-<<<<<<< HEAD
-# TechnicalInterviewBootcamp2022
-=======
-# Hunter College: TTP Technical Interview Prep Bootcamp Summer 2022
+# Technical Interview Bootcamp 2022
+---
+# Hunter College: Technical Interview Prep Bootcamp Summer 2022
 
 Class Days and Class Times: Monday to Friday, 10:00 AM to 3:00 PM  
-Dates: June 6, 2022 (Monday) to June 30th, 2020 (Thursday)    
+
+Dates: June 6, 2022 (Monday) to June 30th, 2022 (Thursday)    
+
 Lead Instructor: Melissa Lynch 
+
 Email: lynch.melissat@gmail.com 
+
 TA: Adrian Mok
 
 Email: ADRIAN.MOK15@myhunter.cuny.edu
@@ -16,24 +19,9 @@ Slack Workspace: <https://interviewprep2022hq.slack.com>
 
 ## Repo Structure
 
-- This README contains your assignments
-- The `assignments` folder is where you will put your work when you
-  submit a pull request to me. This is also where we will post
-  solutions after the classwork/homework should have already been
-  done.
-
-## Assignments
-
-Each assignment has the following format:
-
-Date given: description. Due date. Assignment name.
-
-The due date means before class on that date. So if a homework is due
-on 6/10, then it is due before 10:00 AM on 6/10.
-
-For any assignment where we ask you to solve a problem, please submit
-your program to the github using the directions below under
-'submitting HW'.
+- This README contains the schedule for the course 
+- The `assignments` folder is where you will put your classwork and homeworks (other than p2p questions). This is also where we will post
+  solutions after the classwork/homework should have already been done.
 
 ### Submitting HW
 
@@ -83,20 +71,37 @@ As code:
 We prefer you submit something that runs, but sometimes we don't get
 that far. Whether it runs or not, just submit what you have.
 
-### Syllabus
+### Schedule
 
 **Week 1 (06/06 -> 06/10)**
 
-06/06 (Mon): intro, setup, how to interview, p2p 1 question prep  
-06/07 (Tues): initial assessment, p2p 1  
-- hw: hashes,  p2p 2 questions, lists pre-work
+06/06 (Mon):
+* Course logistics: [intro slides](https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing)
+* Interview prep slides: [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E) and [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
+* Mock interview: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+* Letter groups talk out their p2p1 problems
 
-06/08 (Weds): big-o lecture, hashes  
+*Homework: Leetcode reading on [hash tables](https://leetcode.com/explore/learn/card/hash-table/), p2p1 solution reading*
 
-06/08 (Thurs): hashes day, p2p 2 
+06/07 (Tues): 
+* Hackerrank initial assessment
+* P2p1  
 
+*Homework: Finish hashes reading,  work on p2p2 questions (due Thursday 7PM)*
 
-06/10 (Fri): hashes
+06/08 (Weds):
+* Problem solving in class
+* Lecture by industry professionals John Cline and Emilie Hsieh
+
+*Homework: p2p2 questions (due Thursday 7PM)*
+
+06/08 (Thurs):
+* Problem solving in class
+* Lecture on initial assessment solutions
+
+06/10 (Fri):
+* Lecture
+* P2p2
 
 **Week 2 (06/13 -> 06/17)**
 
@@ -333,4 +338,3 @@ Homework12
     - and your hints.  
 
   
->>>>>>> 93fe0293fc1e8b4f83794a0cce6770f0dca9316a
