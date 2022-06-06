@@ -59,7 +59,7 @@ that far. Whether it runs or not, just submit what you have.
 06/06 (Mon):
 * Course logistics: [intro slides](https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing)
 * Interview prep slides: [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E) and [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
-* Mock interview: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing
+* Mock interview: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 * Letter groups talk out their p2p1 problems
 
 *Homework: Leetcode reading on [hash tables](https://leetcode.com/explore/learn/card/hash-table/), p2p1 solution reading*
