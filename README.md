@@ -15,7 +15,7 @@ Email: ADRIAN.MOK15@myhunter.cuny.edu
 Slack Workspace: <https://interviewprep2022hq.slack.com> 
 
 
-## Repo Structure
+### Repo Structure
 
 - This README contains the schedule for the course 
 - The `assignments` folder is where you will put your classwork and homeworks (other than p2p questions). This is also where we will post
@@ -52,9 +52,9 @@ As code:
 We prefer you submit something that runs, but sometimes we don't get
 that far. Whether it runs or not, just submit what you have.
 
-### Schedule
+## Schedule
 
-**Week 1 (06/06 -> 06/10)**
+### Week 1 (06/06 -> 06/10)
 
 06/06 (Mon):
 * Course logistics: [intro slides](https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing)
@@ -84,7 +84,7 @@ that far. Whether it runs or not, just submit what you have.
 * Lecture
 * P2p2
 
-**Week 2 (06/13 -> 06/17)**
+### Week 2 (06/13 -> 06/17)
 
 06/13 (Mon): 
 
@@ -96,9 +96,8 @@ that far. Whether it runs or not, just submit what you have.
 
 06/17 (Fri):
 
-**Week 3 (06/20 -> 06/24)**
+### Week 3 (06/20 -> 06/24)
 
- 
 06/20 (Mon): 
 
 06/21 (Tues): 
@@ -109,7 +108,7 @@ that far. Whether it runs or not, just submit what you have.
 
 06/24 (Fri):  
 
-**Week 4 (06/27 -> 06/30)**
+### Week 4 (06/27 -> 06/30)
 
 06/27 (Mon):
 
