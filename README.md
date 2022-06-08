@@ -72,7 +72,11 @@ that far. Whether it runs or not, just submit what you have.
 
 06/08 (Weds):
 * Problem solving in class
-* Lecture by industry professionals John Cline and Emilie Hsieh
+  - [Repeated DNA sequences](https://leetcode.com/problems/repeated-dna-sequences/) 
+  - [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+  - [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+* Lecture by industry professionals John Cline and Emilie Hsieh **from 12:30 - 2:30**
 
 *Homework: p2p2 questions (due Thursday 7PM)*
 
