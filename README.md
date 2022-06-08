@@ -77,7 +77,7 @@ that far. Whether it runs or not, just submit what you have.
   [(video explanation)](https://www.youtube.com/watch?v=fYgU6Bi2fRg&ab_channel=TECHDOSE)
   - [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-* Lecture by industry professionals John Cline and Emilie Hsieh **from 12:30 - 2:30**
+* [Lecture](https://docs.google.com/presentation/d/1gkDCxKpYkX0lRZFiu58cfS1sJ6ZI90Yu8I_-no_aJWE/edit#slide=id.g6d7fdfb1aa_0_50) by industry professionals John Cline and Emilie Hsieh **from 12:30 - 2:30**
 
 *Homework: p2p2 questions (due Thursday 7PM)*
 
