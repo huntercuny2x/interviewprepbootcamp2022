@@ -73,7 +73,8 @@ that far. Whether it runs or not, just submit what you have.
 06/08 (Weds):
 * Problem solving in class
   - [Repeated DNA sequences](https://leetcode.com/problems/repeated-dna-sequences/) 
-  - [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+  - [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) 
+  [Video Explanation](https://www.youtube.com/watch?v=fYgU6Bi2fRg&ab_channel=TECHDOSE)
   - [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 * Lecture by industry professionals John Cline and Emilie Hsieh **from 12:30 - 2:30**
