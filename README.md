@@ -83,6 +83,11 @@ that far. Whether it runs or not, just submit what you have.
 
 06/08 (Thurs):
 * Problem solving in class
+  - [N repeated element in size 2N array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) (warmup)
+  - [Reverse substring between parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+  - Project Euler #3: [Largest prime factor](https://projecteuler.net/problem=3)
+  - Project Euler #67: [Max path sum](https://projecteuler.net/problem=67)
+* [14 Patterns for Coding Interviews](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 * Lecture on initial assessment solutions
 
 06/10 (Fri):
