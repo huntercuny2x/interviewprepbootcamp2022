@@ -102,8 +102,13 @@ that far. Whether it runs or not, just submit what you have.
 
 06/13 (Mon): 
 * p2p 3 in the morning
+* Intro to bfs/dfs
+* Mock interview in lecture
 
 06/14 (Tues): 
+* More bfs/dfs
+* Heaps
+
 
 06/15 (Weds):  
 
