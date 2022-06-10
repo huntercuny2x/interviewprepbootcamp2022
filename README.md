@@ -90,9 +90,13 @@ that far. Whether it runs or not, just submit what you have.
 * [14 Patterns for Coding Interviews](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 * Lecture on initial assessment solutions
 
+*Homework: p2p2 questions (due Thursday 7PM)*
+
 06/10 (Fri):
-* Lecture
 * P2p2
+* [Lecture](https://docs.google.com/presentation/d/1IWTae8WKRWPVQwRZd4HFyScnBESiECZAnfh4gb_tzvQ/edit#slide=id.p) on runtime analysis
+
+*Homework: p2p3 questions (due Sunday 7PM)*
 
 ### Week 2 (06/13 -> 06/17)
 
