@@ -114,6 +114,7 @@ that far. Whether it runs or not, just submit what you have.
 * Implement a post-order and in-order traversal using an iterative approach
 * [Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 * [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+* [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 
 *Homework: P2p4 questions due Wednesday at 7PM; p2p5 questions due Thursday at 7PM*
 
