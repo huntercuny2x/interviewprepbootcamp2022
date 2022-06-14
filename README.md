@@ -107,7 +107,8 @@ that far. Whether it runs or not, just submit what you have.
 
 06/14 (Tues): 
 * More bfs/dfs
-* Heaps
+* Trees
+* https://leetcode.com/tag/tree/
 
 
 06/15 (Weds):  
