@@ -108,9 +108,9 @@ that far. Whether it runs or not, just submit what you have.
 06/14 (Tues): 
 * [Find count of number in a sorted array](https://leetcode.com/discuss/interview-question/algorithms/124724/Find-count-of-a-number-in-sorted-array)
 * [Trees](https://leetcode.com/tag/tree/)
-* BFS/DFS
 * [DFS: Recursive and Iterative Approaches](https://faun.pub/implementing-recursive-and-iterative-dfs-on-a-binary-tree-golang-eda04949f4ee)
 * Implement a post-order and in-order traversal using an iterative approach
+* [Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 
 06/15 (Weds):  
