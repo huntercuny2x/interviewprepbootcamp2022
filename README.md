@@ -101,14 +101,14 @@ that far. Whether it runs or not, just submit what you have.
 ### Week 2 (06/13 -> 06/17)
 
 06/13 (Mon): 
-* p2p 3 in the morning
-* Intro to bfs/dfs
-* Mock interview in lecture
+* P2p3
+* Mock interview in lecture using [this problem](https://leetcode.com/problems/contains-duplicate/)
+* Tree traversals
 
 06/14 (Tues): 
-* More bfs/dfs
-* Trees
-* https://leetcode.com/tag/tree/
+* [Find count of number in a sorted array](https://leetcode.com/discuss/interview-question/algorithms/124724/Find-count-of-a-number-in-sorted-array)
+* [Trees](https://leetcode.com/tag/tree/)
+* BFS/DFS
 
 
 06/15 (Weds):  
