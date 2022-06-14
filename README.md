@@ -111,6 +111,7 @@ that far. Whether it runs or not, just submit what you have.
 * [DFS: Recursive and Iterative Approaches](https://faun.pub/implementing-recursive-and-iterative-dfs-on-a-binary-tree-golang-eda04949f4ee)
 * Implement a post-order and in-order traversal using an iterative approach
 * [Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+* [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
 
 06/15 (Weds):  
