@@ -128,6 +128,7 @@ that far. Whether it runs or not, just submit what you have.
 * Classwork:
   - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
   - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+  - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
 *Homework: P2p4 questions due TONIGHT at 7PM; p2p5 questions due TOMORROW at 7PM*
 
