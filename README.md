@@ -120,10 +120,14 @@ that far. Whether it runs or not, just submit what you have.
 *Homework: P2p4 questions due Wednesday at 7PM; p2p5 questions due Thursday at 7PM*
 
 06/15 (Weds): 
-* HEAPS
+* Review heaps/priority queue
   - [Intro](https://www.thecshandbook.com/Heap)
+  - [Why is heapify O(n)?](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
   - [Heaps 1](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category)
   - [Heaps 2](https://leetcode.com/discuss/general-discussion/1113631/important-concepts-problems-in-priority-queueheaps)
+* Classwork:
+  - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+  - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 *Homework: P2p4 questions due TONIGHT at 7PM; p2p5 questions due TOMORROW at 7PM*
 
