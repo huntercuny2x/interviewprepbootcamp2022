@@ -133,8 +133,12 @@ that far. Whether it runs or not, just submit what you have.
 *Homework: P2p4 questions due TONIGHT at 7PM; p2p5 questions due TOMORROW at 7PM*
 
 06/16 (Thurs): 
-* p2p4
+* P2p4
 * Dynamic programming
+  - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+  - [Video](https://www.youtube.com/watch?v=Y0lT9Fck7qI&ab_channel=NeetCode)
+  - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+  - [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 *Homework: P2p5 questions due TONIGHT at 7PM*
 
