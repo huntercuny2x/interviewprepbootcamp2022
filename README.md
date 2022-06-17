@@ -137,7 +137,8 @@ that far. Whether it runs or not, just submit what you have.
 * Dynamic programming
   - CTCI Chapter on Dynamic Programming (link coming soon)
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
-  - [Video explanation](https://www.youtube.com/watch?v=Y0lT9Fck7qI&ab_channel=NeetCode) of possible solutions to the climbing stairs problem
+  - Possible solutions to the climbing stairs problem [(video)](https://www.youtube.com/watch?v=Y0lT9Fck7qI&ab_channel=NeetCode) 
+  - Space complexity of recursive Fibonacci [(video)](https://www.youtube.com/watch?v=dxyYP3BSdcQ&ab_channel=mycodeschool)
 
 *Homework: P2p5 questions due TONIGHT at 7PM*
 
