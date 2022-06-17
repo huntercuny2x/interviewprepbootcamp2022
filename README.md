@@ -135,16 +135,20 @@ that far. Whether it runs or not, just submit what you have.
 06/16 (Thurs): 
 * P2p4
 * Dynamic programming
-  - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-  - [Video](https://www.youtube.com/watch?v=Y0lT9Fck7qI&ab_channel=NeetCode)
-  - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
-  - [Decode Ways](https://leetcode.com/problems/decode-ways/)
+  - CTCI Chapter on Dynamic Programming (link coming soon)
+  - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
+  - [Video explanation](https://www.youtube.com/watch?v=Y0lT9Fck7qI&ab_channel=NeetCode) of possible solutions to the climbing stairs problem
 
 *Homework: P2p5 questions due TONIGHT at 7PM*
 
 06/17 (Fri):
-* p2p5
+* P2p5
 * Dynamic programming
+  - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+  - [Decode Ways](https://leetcode.com/problems/decode-ways/)
+  - [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+ 
+*Homework: P2p6 questions due Monday at 7PM*
 
 ### Week 3 (06/20 -> 06/24)
 
@@ -154,12 +158,14 @@ that far. Whether it runs or not, just submit what you have.
 
 06/21 (Tues):
 * p2p6
-* Bitwise operations
+* Misc leetcode problems 
 
 06/22 (Weds):
-* graphs, topological sort
+* Graphs, topological sort
+* Bitwise operations
 
-06/23 (Thurs):  
+06/23 (Thurs):
+* p2p7
 
 06/24 (Fri):  
 
