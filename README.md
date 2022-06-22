@@ -158,27 +158,42 @@ that far. Whether it runs or not, just submit what you have.
 * Midpoint assessment
 
 06/21 (Tues):
-* p2p6
-* Misc leetcode problems 
+* P2p6
+* Review solutions to midpoint
 
 06/22 (Weds):
-* Graphs, topological sort
+* Graphs
+  - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/solution/) (topological sort)
+  - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+  - [Course Schedule](https://leetcode.com/problems/course-schedule/) (topological sort)
+  - [Longest Increasing Path in Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 * Bitwise operations
+  - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+  - [Subsets](https://leetcode.com/problems/subsets/)
+  - [Decode XOR-ed Permutation](https://leetcode.com/problems/decode-xored-permutation/)
+  - [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+  - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
 
 06/23 (Thurs):
-* p2p7
+* Linked lists, misc Leetcode problems
 
-06/24 (Fri):  
+06/24 (Fri): 
+* P2p7
 
 ### Week 4 (06/27 -> 06/30)
 
 06/27 (Mon):
+* P2p8
 
-06/28 (Tues): 
+06/28 (Tues):
+* Final assessment
 
 06/29 (Weds):
+* P2p9
 
 06/30 (Thurs):
+* Last day
 
 
 
