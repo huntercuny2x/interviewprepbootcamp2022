@@ -168,6 +168,9 @@ that far. Whether it runs or not, just submit what you have.
   - [Course Schedule](https://leetcode.com/problems/course-schedule/) (topological sort)
   - [Longest Increasing Path in Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 * Bitwise operations
+  - [Bitwise Intro](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
+  - [Bit masking](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)
+* Problems:
   - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
   - [Subsets](https://leetcode.com/problems/subsets/)
   - [Decode XOR-ed Permutation](https://leetcode.com/problems/decode-xored-permutation/)
