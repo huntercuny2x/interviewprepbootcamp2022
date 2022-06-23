@@ -161,6 +161,9 @@ that far. Whether it runs or not, just submit what you have.
 * P2p6
 * Review solutions to midpoint
 
+*Homework: P2p7 questions due Thursday at 7PM*
+
+
 06/22 (Weds):
 * Graphs
   - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/solution/) (topological sort)
@@ -177,6 +180,8 @@ that far. Whether it runs or not, just submit what you have.
   - [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
   - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
+*Homework: P2p7 questions due tomorrow at 7PM*
+
 
 06/23 (Thurs):
 * Linked lists
@@ -184,21 +189,35 @@ that far. Whether it runs or not, just submit what you have.
   - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
   - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
   - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+  - [Reorder List](https://leetcode.com/problems/reorder-list/)
 * Misc LC problems
   - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
   - [Jump Game](https://leetcode.com/problems/jump-game/)
+  - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
   - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Dijkstra)
   - [Design Twitter](https://leetcode.com/problems/design-twitter/) (OOP)
 
+*Homework: P2p7 questions due tonight at 7PM*
+
 
 06/24 (Fri): 
 * P2p7
+* Misc LC Problems
+  - (Keys and Rooms)[https://leetcode.com/problems/keys-and-rooms/]
+  - (Search a 2D Matrix II)[https://leetcode.com/problems/search-a-2d-matrix-ii/]
+  - (Delete Node in a BST)[https://leetcode.com/problems/delete-node-in-a-bst/]
+
 
 ### Week 4 (06/27 -> 06/30)
 
 06/27 (Mon):
 * P2p8
+* Misc LC problems
+  - (Unique Paths)[https://leetcode.com/problems/unique-paths/]
+  - (Implement Trie Prefix Tree)[https://leetcode.com/problems/implement-trie-prefix-tree/]
+  - (Minimum Index Sum of Two Lists)[https://leetcode.com/problems/minimum-index-sum-of-two-lists/]
+  - (Frog Jump)[https://leetcode.com/problems/frog-jump/]
 
 06/28 (Tues):
 * Final assessment
