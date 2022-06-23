@@ -180,6 +180,8 @@ that far. Whether it runs or not, just submit what you have.
 
 06/23 (Thurs):
 * Linked lists, misc Leetcode problems
+- [LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 06/24 (Fri): 
 * P2p7
