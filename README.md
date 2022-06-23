@@ -204,9 +204,9 @@ that far. Whether it runs or not, just submit what you have.
 06/24 (Fri): 
 * P2p7
 * Misc LC Problems
-  - (Keys and Rooms)[https://leetcode.com/problems/keys-and-rooms/]
-  - (Search a 2D Matrix II)[https://leetcode.com/problems/search-a-2d-matrix-ii/]
-  - (Delete Node in a BST)[https://leetcode.com/problems/delete-node-in-a-bst/]
+  - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+  - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+  - [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
 
 
 ### Week 4 (06/27 -> 06/30)
@@ -214,10 +214,10 @@ that far. Whether it runs or not, just submit what you have.
 06/27 (Mon):
 * P2p8
 * Misc LC problems
-  - (Unique Paths)[https://leetcode.com/problems/unique-paths/]
-  - (Implement Trie Prefix Tree)[https://leetcode.com/problems/implement-trie-prefix-tree/]
-  - (Minimum Index Sum of Two Lists)[https://leetcode.com/problems/minimum-index-sum-of-two-lists/]
-  - (Frog Jump)[https://leetcode.com/problems/frog-jump/]
+  - [Unique Paths](https://leetcode.com/problems/unique-paths/)
+  - [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
+  - [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
+  - [Frog Jump](https://leetcode.com/problems/frog-jump/)
 
 06/28 (Tues):
 * Final assessment
