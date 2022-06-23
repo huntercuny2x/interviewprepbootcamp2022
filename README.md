@@ -182,10 +182,14 @@ that far. Whether it runs or not, just submit what you have.
 * Linked lists
   - [LRU Cache](https://leetcode.com/problems/lru-cache/)
   - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+  - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+  - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 * Misc LC problems
   - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
   - [Jump Game](https://leetcode.com/problems/jump-game/)
   - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+  - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Dijkstra)
+  - [Design Twitter](https://leetcode.com/problems/design-twitter/) (OOP)
 
 
 06/24 (Fri): 
