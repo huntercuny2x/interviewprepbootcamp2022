@@ -203,10 +203,7 @@ that far. Whether it runs or not, just submit what you have.
 
 06/24 (Fri): 
 * P2p7
-* Misc LC Problems
-  - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
-  - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
-  - [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+* Choose problems for peer to peer next week
 
 
 ### Week 4 (06/27 -> 06/30)
@@ -224,6 +221,10 @@ that far. Whether it runs or not, just submit what you have.
 
 06/29 (Weds):
 * P2p9
+* Misc LC Problems
+  - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+  - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+  - [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
 
 06/30 (Thurs):
 * Last day
