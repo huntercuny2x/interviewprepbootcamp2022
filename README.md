@@ -220,15 +220,17 @@ that far. Whether it runs or not, just submit what you have.
 * Final assessment
 
 06/29 (Weds):
-* P2p9
+* P2p9 (from 10-12)
+* Guest lecture at 1
+
+
+06/30 (Thurs):
+* Last day!
+* Review solutions to Final Assessment 
 * Misc LC Problems
   - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
   - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
   - [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
-
-06/30 (Thurs):
-* Last day
-
 
 
 
